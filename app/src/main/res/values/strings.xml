@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NagwaFilesDownloadTask</string>
+    <string name="someThingWentWrong">Some thing went wrong</string>
+    <string name="download">Download</string>
+    <string name="fileName">File Name</string>
+    <string name="finished">Download Finished</string>
+    <string name="downloadFailedYouCantDownload">Download failed you can\'t retry any more</string>
+    <string name="downloadFailedYouCanRetry">Download Failed you can try again</string>
+    <string name="downloading">Downloading %s/100</string>
+    <string name="no_network">No network</string>
+    <string name="openFilesPermissionFromSettings">Please open files permission from settings</string>
+    <string name="acceptFilesPermission">Please allow file permission</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">ok</string>
+</resources>
